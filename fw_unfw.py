@@ -6,7 +6,7 @@ Created on Sun Sep  1 23:09:18 2024
 """
 
 import pandas as pd
-from inline_sql import sql, sql_val
+from inline_sql import sql
 
 #%% Unfollowers List ==========================================================
 

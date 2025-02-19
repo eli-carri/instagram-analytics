@@ -1,3 +1,6 @@
 fwers_fwing.txt
 connections/
 unfollowers.csv
+.gitignore
+.idea/
+venv/
