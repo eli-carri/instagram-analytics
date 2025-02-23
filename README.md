@@ -29,7 +29,7 @@ Fill your notify method and the rest of configurations just as below:
 
 ![](images/10.png)
 
-Click "Download" button and wait 15-20 minutes to file is ready. When zip file is ready save it and just drop it in the repository folder. Run all cells of main.ipynb. Then infomation about your connections will be ilustrated in the notebook outputs.
+Click "Download" button and wait 15-20 minutes to file is ready. When zip file is ready, save it and just drop it in the repository folder. Run all cells of main.ipynb. Then infomation about your connections will be ilustrated in the notebook outputs.
 
 
 
