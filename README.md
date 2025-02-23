@@ -1,4 +1,4 @@
-# INSTAGRAM FOLLOWERS & UNFOLLOWERS COUNT
+# INSTAGRAM: FOLLOWING, FOLLOWERS & UNFOLLOWERS
 
 ## Instructions
 Enter to your Instagram User Account Center:
