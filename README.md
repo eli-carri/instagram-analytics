@@ -9,4 +9,12 @@ Enter to your Instagram User Account Center
 
 ![](images/3.png)
 
+Then download part of your information
+
 ![](images/4.png)
+
+![](images/5.png)
+
+![](images/6.png)
+
+![](images/7.png)
