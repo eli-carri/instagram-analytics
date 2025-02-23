@@ -1,6 +1,6 @@
-fwers_fwing.txt
+__pycache__/
 connections/
-unfollowers.csv
-.gitignore
-.idea/
 venv/
+.gitignore
+instagram*
+users*
