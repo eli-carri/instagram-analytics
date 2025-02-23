@@ -1,6 +1,6 @@
-# INSTAGRAM: FOLLOWING, FOLLOWERS & UNFOLLOWERS
+## INSTAGRAM: FOLLOWING, FOLLOWERS & UNFOLLOWERS
 
-## Instructions
+### Instructions
 Enter to your Instagram User Account Center:
 
 ![](images/1.png)
