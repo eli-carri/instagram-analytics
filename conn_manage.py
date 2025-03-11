@@ -139,10 +139,10 @@ def check_followers ():
                 # Divide the cases
                 init(autoreset=True)
                 if following:
-                    print("  -" + Style.BRIGHT + f"{user}" + Style.RESET_ALL + " - " + Fore.RED + "Following")
+                    print("  - " + Style.BRIGHT + f"{user}" + Style.RESET_ALL + " - " + Fore.RED + "Following")
 
                 else:
-                    print("  -" + Style.BRIGHT + f"{user}" + Style.RESET_ALL + " - " + Fore.GREEN + "Not following")
+                    print("  - " + Style.BRIGHT + f"{user}" + Style.RESET_ALL + " - " + Fore.GREEN + "Not following")
 
         # show old unfollowers info
         old_unfwers_df = pd.DataFrame({"old_unfollowers":old_unfwers, "following": old_unfwers.isin(fwing)})
