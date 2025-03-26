@@ -42,7 +42,9 @@ def get_new_connections ():
         except:
             print(f"Can't unzip {zip_file}")
 
-
+# run directly
+if __name__ == '__main__':
+    get_new_connections()
     
 
     

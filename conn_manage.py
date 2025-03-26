@@ -197,3 +197,7 @@ def check_followers ():
     except:
         init(autoreset=True)
         print(Fore.RED + "Ups! Can't save unfollowers.\n")
+
+if __name__ == '__main__':
+    check_followers()
+    check_following()
