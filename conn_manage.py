@@ -15,7 +15,7 @@ def imp_following (following_file):
     following = pd.read_json(following_file)
     following = following.relationships_following
     for i in range(len(following)):
-        following[i] = following[i]['string_list_data'][0]['value']
+        following[i] = following[i]['title']
 
     following = pd.Series(following, name="following")
     return following
