@@ -82,7 +82,3 @@ Estos archivos son el "historial" que se usa para detectar cambios en la próxim
 - El proyecto no interactúa con la API de Instagram ni hace scraping: todo el análisis se hace sobre el export oficial de datos que provee la plataforma.
 - No se almacena información sensible fuera de tu propia máquina.
 - Si es la primera vez que corrés el script, no vas a tener archivo de historial previo, así que no habrá comparación de "nuevos" o "unfollowers" en esa primera corrida — solo se generará el snapshot inicial.
-
-## Licencia
-
-No especificada en el repositorio original. Se recomienda agregar una licencia (por ejemplo, MIT) si el proyecto se va a compartir públicamente.
